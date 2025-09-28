@@ -1,4 +1,4 @@
-Features
+ # Features
 Interactive Visualizations: The dashboard features interactive visualizations that enable users to explore sales data from various perspectives, such as product categories, regions, and time periods.
 Key Performance Indicators (KPIs): Critical KPIs, including total revenue, profit margin, and sales growth, are prominently displayed, providing a quick overview of the business's performance.
 Drill-down Capabilities: Users can drill down into specific product lines, sales representatives, or customer segments to uncover granular details and identify areas for improvement or growth opportunities.
